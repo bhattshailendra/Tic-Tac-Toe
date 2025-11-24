@@ -48,7 +48,7 @@ python --version
 
 1. Clone the repository:
 ```bash
-
+https://github.com/bhattshailendra/Tic-Tac-Toe.git
 ```
 
 2. Navigate to the project directory:
