@@ -53,7 +53,7 @@ https://github.com/bhattshailendra/Tic-Tac-Toe.git
 
 2. Navigate to the project directory:
 ```bash
-
+VITyarthi/Tic_Tac_Toe.py
 ```
 
 3. Run the game:
